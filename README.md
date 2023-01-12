@@ -1,5 +1,5 @@
 # Qualys VM Deploy Patch
-Qualys VMDR Patch Deployment
+Qualys VMDR Deployment of Patch Job
 
 <h2>Description</h2>
 The project involves using Qualys, a vulnerability management and compliance solution, to scan the organization's infrastructure for potential security vulnerabilities. Once identified, the Qualys platform is used to deploy the necessary patches and updates to remediate the vulnerabilities and improve the overall security of the environment. This process is automated and can be integrated with the organization's existing IT systems to ensure that vulnerabilities are identified and addressed in a timely manner. The end goal is to help the organization achieve compliance with industry regulations and standards and reduce the risk of a security breach. I will provide brief screen shots on the steps taken to deploy patches to a daily patch schedule for the vulnerabilites found using Qualys.
