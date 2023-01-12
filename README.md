@@ -44,8 +44,10 @@ We will now click the check box next to actions and right below the search bar t
 Next we will click on the actions button and click "View Missing Patches". This will pull up the Patch Summary page that lists patches for both Linux and Windows OS. By clicking on "View Missing Patches" for either of the OS, it will take us to the Patch Catalog.:  <br/>
 <img src="https://imgur.com/sHwntYv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-After clicking on "View Missing Patches" for Linux, we are now on the Patch Catalog and will then click on Actions->Add to Existing Job". This will take us to the "Existing Deployment Jobs" screen where we can then click on "add". This will add the patches to the "daily patch deployment job". The Patch Job will deploy the next time the job is scheduled to run.:  <br/>
+After clicking on "View Missing Patches" for Linux, we are now on the Patch Catalog and will then click on Actions->Add to Existing Job". This will take us to the "Existing Deployment Jobs" screen where we can then click on "add". This will add the patches to the "daily patch deployment job". The Patch Job will deploy the next time the job is scheduled to run:  <br/>
 <img src="https://imgur.com/aPUrmBR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
 </p>
 
 <!--
